@@ -8,7 +8,7 @@ This repository contains starting files for the Behavioral Cloning Project.
 
 In this project, deep neural networks and convolutional neural networks are used to clone driving behavior. The model is trained, validated and tested using Keras. The model will output a steering angle to an autonomous vehicle depending on the place of the road where the vehicle is located.
 
-We have provided a simulator where you can steer a car around a track for data collection. The simulator can be downloaded from [here] (https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/6df7ae49-c61c-4bb2-a23e-6527e69209ec/lessons/46a70500-493e-4057-a78e-b3075933709d/concepts/1c9f7e68-3d2c-4313-9c8d-5a9ed42583dc).
+We have provided a simulator where you can steer a car around a track for data collection. The simulator can be downloaded from [here](https://classroom.udacity.com/nanodegrees/nd013/parts/fbf77062-5703-404e-b60c-95b78b2f3f9e/modules/6df7ae49-c61c-4bb2-a23e-6527e69209ec/lessons/46a70500-493e-4057-a78e-b3075933709d/concepts/1c9f7e68-3d2c-4313-9c8d-5a9ed42583dc).
 
 To meet specifications, the project will require submitting five files: 
 * model.py (script used to create and train the model)
@@ -35,7 +35,7 @@ The following resources can be found in this github repository:
 
 ### Collecting the data
 
-There is a sample data set [here] (https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip). It is optional to use it. The simulator provides an option to drive the car in manual mode. It saves the images with their corresponding angle to a csv file. The 'data' folder should be located at the root of the repository and it should contain a 'IMG' folder with the corresponding data log file.
+There is a sample data set [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip). It is optional to use it. The simulator provides an option to drive the car in manual mode. It saves the images with their corresponding angle to a csv file. The 'data' folder should be located at the root of the repository and it should contain a 'IMG' folder with the corresponding data log file.
 
 data _______ driving_log.csv
   |_________ IMG_______ image samples
